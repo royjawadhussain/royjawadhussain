@@ -1,16 +1,25 @@
-## Hi there 👋
+## About
 
-<!--
-**royjawadhussain/royjawadhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on content and communications systems for teams operating at scale, 
+particularly in regulated and high-trust environments.
 
-Here are some ideas to get you started:
+My focus is not content volume, but decision clarity, governance, and durability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I publish here
+
+This space is used to share:
+
+- Content system blueprints
+- Editorial governance frameworks
+- Operating principles for content and communications leaders
+
+This repository is intentionally quiet and curated.
+
+## How I work
+
+- Long-term retainers
+- Advisory and systems design
+- Small number of active partnerships
+
+More context:
+https://jawad-hussain-x79pfqa.gamma.site/
